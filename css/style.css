@@ -59,7 +59,8 @@
     }
    
   html,body{
-      overflow-x: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
   }
 
    * {
@@ -70,7 +71,6 @@
   body {
     background: var(--white-color);
     font-family: var(--base-font-family);
-    overflow-x: hidden;
   }
 
 
