@@ -57,6 +57,11 @@
     --border-radius-large:  100%;
     --border-radius-small:  2px;
     }
+   
+  html,body{
+      overflow-x: hidden;
+  }
+
    * {
     box-sizing: border-box;
     overflow-x: hidden;
