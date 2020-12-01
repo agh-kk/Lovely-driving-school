@@ -58,15 +58,10 @@
     --border-radius-small:  2px;
   }
 
-  * {
-    box-sizing: border-box;
-    margin: 0px;
-  }
-
+  
   body {
     background: var(--white-color);
-    font-family: var(--base-font-family);
-    margin: 0px;
+    font-family: var(--base-font-family); 
   }
 
 
