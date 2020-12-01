@@ -65,6 +65,7 @@
   body {
     background: var(--white-color);
     font-family: var(--base-font-family);
+    overflow-x: hidden;
   }
 
 
