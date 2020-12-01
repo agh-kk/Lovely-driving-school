@@ -57,6 +57,12 @@
     --border-radius-large:  100%;
     --border-radius-small:  2px;
     }
+  html {
+    margin: 0px !important;
+    padding: 0px !important;
+    width: 100%;
+    height: 100%;
+  }
   
   body {
     background: var(--white-color);
