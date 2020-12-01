@@ -466,6 +466,11 @@
   #submit-button {
     height: calc(2.25rem + 20px);
   }
+  #find {
+    background:black;
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+  }
 
   .form-control {
     border-radius: var(--border-radius-small);
@@ -510,8 +515,8 @@
   -----------------------------------------*/
 
   .site-footer {
-    background-color: rgba(20,20,20,0.10);
-    border-top: 1px solid #070202;
+    background-color: var(--bg-color);
+    border-top: 1px solid var(--white-color);
     padding: 3rem 0;
   }
 
